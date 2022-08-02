@@ -1,0 +1,8 @@
+{
+    "name": "Her-oku",
+    "description": "Deploy My App on Her-oku.",
+    "keywords": ["App"],
+    "website": "https://github.com/q2533q/",
+    "repository": "https://github.com/q2533q/",
+    "stack": "container"
+}
